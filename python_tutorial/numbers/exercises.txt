@@ -1,0 +1,15 @@
+Which is NOT a legal numeric data type in Python:
+    
+    long
+
+Insert the correct syntax to convert x into a floating point number.
+    x = 5
+    x = float(x)
+
+Insert the correct syntax to convert x into an integer.
+    x = 5.5
+    x = int(x)
+
+Insert the correct syntax to conver x into a complex number.
+    x = 5
+    x = complex(x)
