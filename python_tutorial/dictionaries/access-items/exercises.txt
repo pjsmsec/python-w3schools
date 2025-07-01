@@ -1,0 +1,16 @@
+True or False.
+You can access item values by referring to the key name.
+
+Use the get method to print the value of "model" key of the car dictionary.
+    car = {
+        "brand": "Ford",
+        "model": "Mustang",
+        "year": 1964
+    }
+    print(car.get("model"))
+
+Consider the following code:
+    x = {'type' : 'fruits', 'name' : 'banana'}
+    print(x['type'])
+
+    fruits
