@@ -1,0 +1,13 @@
+What is a correct syntax for making a copy of this dictionary:
+    x = {'type' : 'fruit', 'name' : 'apple'}
+
+    y = x.copy()
+
+One of these codes is NOT a correc way of making a copy of a dictionary named x,
+which one:
+
+    y = x.ducplicate()
+
+True of False.
+Copied dictionaries will not be able to change it's item values.
+    False
