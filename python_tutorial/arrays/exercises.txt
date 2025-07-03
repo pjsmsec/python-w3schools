@@ -1,0 +1,15 @@
+Python lists can be used as arrays.
+what will be the result of the following code:
+    fruits = ['apple', 'banana', 'cherry']
+    print(fruits[0])
+
+    apple
+
+What is a correct Python list method used to return the number of elements in a list?
+    len()
+
+WHat will be the result of the following code:
+    fruits = ['apple', 'bananan', 'cherry']
+    print(len(fruits))
+
+    3
