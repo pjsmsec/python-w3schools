@@ -1,0 +1,12 @@
+There are two methods that you have to implement when you create an iterator, 
+which two?
+
+    __iter__() and __next__()
+
+Which statement can be used to stop the iteration?
+
+    StopIteration
+
+True or False.
+Lists, tuples, disctionaries, and sets are all iterable onjects.
+    True
