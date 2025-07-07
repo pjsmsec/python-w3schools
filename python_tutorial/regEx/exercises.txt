@@ -1,0 +1,31 @@
+Consider the following code:
+    import re
+    txt = 'The rain in Spain'
+    x = re.findall('[a-c]', txt)
+    print(x)
+What will be the printed result?
+
+    ['a', 'a']
+
+Consider the following code:
+    import re
+    txt = 'The rain in Spain'
+    x = re.search('a', txt)
+    print(x.start())
+What will be the printed result?
+
+    5
+
+Consider the following code:
+    import re
+    txt = 'The rain in Spain'
+    x = re.search('\s', txt)
+    print(x.start())
+What will be the printed result?
+
+    3
+
+When using the re module to find a match, a match will return a Match object, but 
+what is the return value when there is no match?
+
+    None
