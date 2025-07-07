@@ -1,2 +1,2 @@
-def freeting(name):
+def greeting(name):
     print("Hello, " + name)
