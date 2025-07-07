@@ -1,0 +1,12 @@
+What describes PIP the best?
+
+    PIP is a package manager for Python modules
+
+What is a correct way of importing the wrray moduele?
+
+    import array
+
+In Command Line view, what is a correct statement for listing all the packages 
+installed on your system?
+
+    pip list
