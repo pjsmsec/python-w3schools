@@ -1,0 +1,20 @@
+In a try...except block, there is a certain block that if specified, will be 
+executed regardless if the try block raises an error or not.
+What is the name of this block?
+
+    finally
+
+Fill the missing code in this try...except example:
+    try:
+        print(x)
+    except:
+        print("An exception occurred")
+
+Fill the missing code in this try...except, the last code block should be executed if 
+there are no errors:
+    try:
+        print("Hello")
+    except:
+        print("Something went wrong")
+    else:
+        print("Nothing went wrong")
