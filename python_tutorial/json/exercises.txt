@@ -1,0 +1,14 @@
+When you parse code with the json.loads() method, the result is returned as a 
+specific data type, which one?
+
+    dictionary
+
+Which method from the json library can be used to convert a Python object into a 
+JSON string?
+
+    json.dumps()
+
+The json.dumps() method has a keyword parameter used to sort the result, what is it 
+called?
+
+    sort_keys
