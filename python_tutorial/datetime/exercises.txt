@@ -1,0 +1,26 @@
+Consider the following code:
+    import datetime
+    x = datetime.datetime
+Which syntax will print the current date?
+
+    print(x.now())
+
+Consider the following code:
+    import datetime
+    x = datetime.datetime.now()
+Which syntax will print the name of the weekday?
+
+    print(x.strftime("'%A'))
+
+When formatting date objects into readable strings, which syntax is used to return 
+the month name, full version?
+
+    print(x.strftime('%B'))
+
+Consider the following code:
+    import datetime
+    x = datetime.datetime(2024, 8, 20)
+    print(x.strftime('%d'))
+What will be the printed result?
+
+    20
