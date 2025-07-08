@@ -1,0 +1,11 @@
+What is the built-in Python module for creating virtual environments?
+
+    venv
+
+What is a correct command to deactivate a virtual environment?
+
+    deactivate
+
+What is a correct command to create a virtual environment called 'mytest'?
+
+    python -m venv mytest
