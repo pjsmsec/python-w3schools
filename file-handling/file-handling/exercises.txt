@@ -1,0 +1,15 @@
+What is a function used for opening files?
+
+    open()
+
+By default the file is opened in text mode, but you can also open the file in 
+binary mode:
+Which one of the following syntaxes opens the file in binary mode?
+
+    x = open('demofile.txt', 'b')
+
+True or False.
+The default opening mode when opening a file with open() function os 'r' for 
+'reading'.
+
+    True
