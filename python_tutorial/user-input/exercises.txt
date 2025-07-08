@@ -1,0 +1,13 @@
+What is the name of the method used to ask for user input?
+
+    input()
+
+What is a correct syntax for adding a prompt to the input() method?
+
+    input('Enter a number')
+
+True or False.
+Python stops executing when it comes to the input function, and conitnues when the
+user has given some input.
+
+    True
