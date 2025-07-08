@@ -1,0 +1,17 @@
+What happens to the original file content if you open a file like this:
+    open('demofile3.txt', 'w')
+
+    The original content will be overwritten
+
+If you open a file like this:
+    with open('demofile3.txt', 'w') as f:
+What happens if the file does not exist?
+
+    A file will be created
+
+Consider the code:
+    with open('demofile3.txt', 'w') as f:
+What could you replace the 'w' with to instead return an error if the file already 
+exists?
+
+    'x'
